@@ -117,5 +117,5 @@ Based on the BigQuery results, the following patterns were identified:
 ## 📂 Repository Structure
 * `src/Vertigo_games_task1.sql`: A/B Test logic with Piecewise Exponential Model.
 * `src/Vertigo_Games_Task2.sql`: User segmentation and behavioral analysis queries.
-* `assets/`: Screenshots of query results and graphs.
+* `src/`: Screenshots of query results and graphs.
 * `README.md`: Project documentation.
